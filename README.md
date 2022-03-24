@@ -1,6 +1,8 @@
 # Data Replication
 Data replication with MariaDB Docker.
 
+docker network create jpj_training_network
+
 ## Tasks
 **Primary Database**
 - Bring up primary MariaDB database.
